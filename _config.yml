@@ -2,3 +2,4 @@ name: Thales Mello
 markdown: redcarpet
 pygments: true
 baseurl: "http://thalesmello.github.io/portfolio"
+permalink: /:year/:month/:day/:title
