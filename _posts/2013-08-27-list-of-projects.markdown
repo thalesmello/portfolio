@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "List of Projects"
-date:   2013-08-27 03:14:39
+date:   2013-08-27 12:00:00
 categories: jekyll update
 ---
 

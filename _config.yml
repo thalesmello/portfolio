@@ -3,3 +3,4 @@ markdown: redcarpet
 pygments: true
 baseurl: "http://thalesmello.github.io/portfolio"
 permalink: /:year/:month/:day/:title
+timezone: America/Sao_Paulo
